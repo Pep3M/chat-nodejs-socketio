@@ -27,7 +27,7 @@ npm run dev
 
 El servidor se iniciará en el puerto 3000.
 
-Para usar una interfaz de chat, visite el repositorio [ui-chat-example]('https://github.com/Pep3M/ui-chat-example') y use el Example4.
+Para usar una interfaz de chat, visite el repositorio [ui-chat-example](https://github.com/Pep3M/ui-chat-example) y use el Example4.
 
 ## Funcionalidades
 
